@@ -28,3 +28,8 @@ in [tejus Preprocessing.ipynb](https://github.com/Major-Project-8th-Sem/Backend/
 ## Data after Data preprocessing
 1GB csv data
 [download link](https://drive.google.com/file/d/1Qk4KJCAAF5uPNjYLjqtdGqE7a7IGuqOx/view?usp=share_link)
+
+## Data after minMax Scaler , Standardization && One Hot Encoding
+(No errors + lot of data with uneven data distribution in labels =)-
+4GB csv data 
+[download link](https://drive.google.com/file/d/1-ArQeTayTGz10VOr6tUYWust9wSAptwA/view?usp=sharing)
