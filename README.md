@@ -37,3 +37,6 @@ in [tejus Preprocessing.ipynb](https://github.com/Major-Project-8th-Sem/Backend/
 (No errors + lot of data with uneven data distribution in labels =)-
 4GB csv data 
 [download link](https://drive.google.com/file/d/1CmY8kpLB8Dr1wmFJi3NruWkFwvWO163N/view?usp=sharing)
+
+## Techniques for this project .... 
+![TECHNIQUES]('./a.webp')
