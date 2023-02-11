@@ -39,4 +39,8 @@ in [tejus Preprocessing.ipynb](https://github.com/Major-Project-8th-Sem/Backend/
 [download link](https://drive.google.com/file/d/1CmY8kpLB8Dr1wmFJi3NruWkFwvWO163N/view?usp=sharing)
 
 ## Techniques for this project .... 
-![TECHNIQUES]('https://github.com/Major-Project-8th-Sem/Backend/blob/main/a.jpg')
+![TECHNIQUES]('https://raw.githubusercontent.com/Major-Project-8th-Sem/Backend/main/a.jpg')
+<p align="center">
+  <a href="#"><img alt="teler" src="https://raw.githubusercontent.com/Major-Project-8th-Sem/Backend/main/a.jpg" height="300" /></a>
+  <h3 align="center"><b>teler</b></h3>
+</p>
