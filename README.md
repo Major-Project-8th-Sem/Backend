@@ -39,4 +39,4 @@ in [tejus Preprocessing.ipynb](https://github.com/Major-Project-8th-Sem/Backend/
 [download link](https://drive.google.com/file/d/1CmY8kpLB8Dr1wmFJi3NruWkFwvWO163N/view?usp=sharing)
 
 ## Techniques for this project .... 
-![TECHNIQUES]('./a.jpg')
+![TECHNIQUES]('https://github.com/Major-Project-8th-Sem/Backend/blob/main/a.jpg')
