@@ -29,7 +29,11 @@ in [tejus Preprocessing.ipynb](https://github.com/Major-Project-8th-Sem/Backend/
 1GB csv data
 [download link](https://drive.google.com/file/d/1Qk4KJCAAF5uPNjYLjqtdGqE7a7IGuqOx/view?usp=share_link)
 
+## Balanced Data after UnderSampling
+800MB csv data
+[Download link](https://drive.google.com/file/d/1Blp6nQlGyocfiPWXcREvoCaCr7LiBfvk/view?usp=sharing)
+
 ## Data after minMax Scaler , Standardization && One Hot Encoding
 (No errors + lot of data with uneven data distribution in labels =)-
 4GB csv data 
-[download link](https://drive.google.com/file/d/1-ArQeTayTGz10VOr6tUYWust9wSAptwA/view?usp=sharing)
+[download link](https://drive.google.com/file/d/1CmY8kpLB8Dr1wmFJi3NruWkFwvWO163N/view?usp=sharing)
