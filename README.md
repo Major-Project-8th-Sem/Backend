@@ -39,4 +39,4 @@ in [tejus Preprocessing.ipynb](https://github.com/Major-Project-8th-Sem/Backend/
 [download link](https://drive.google.com/file/d/1CmY8kpLB8Dr1wmFJi3NruWkFwvWO163N/view?usp=sharing)
 
 ## Techniques for this project .... 
-![TECHNIQUES]('./a.webp')
+![TECHNIQUES]('https://raw.githubusercontent.com/Major-Project-8th-Sem/Backend/main/a.webp')
