@@ -41,6 +41,6 @@ in [tejus Preprocessing.ipynb](https://github.com/Major-Project-8th-Sem/Backend/
 ## Techniques for this project .... 
 ![TECHNIQUES]('https://raw.githubusercontent.com/Major-Project-8th-Sem/Backend/main/a.jpg')
 <p align="center">
-  <a href="#"><img alt="teler" src="https://raw.githubusercontent.com/Major-Project-8th-Sem/Backend/main/a.jpg" height="300" /></a>
-  <h3 align="center"><b>teler</b></h3>
+  <a href="#"><img alt="tech" src="https://raw.githubusercontent.com/Major-Project-8th-Sem/Backend/main/a.jpg" /></a>
+  <h3 align="center"><b>techniques</b></h3>
 </p>
